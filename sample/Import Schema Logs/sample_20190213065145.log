@@ -1,0 +1,10 @@
+13-02-2019 12:21:45	This log contains information about the import schema operation into project 'sample' on computer 'DESKTOP-IGO3PTE' by user 'Shani'.
+13-02-2019 12:21:45	Deserializing model
+13-02-2019 12:21:46	Resolving model
+13-02-2019 12:21:47	Visiting imported model for types
+13-02-2019 12:21:49	Scanning project for duplicate elements
+13-02-2019 12:21:49	Finished duplicate element processing
+13-02-2019 12:22:04	Processing extra files
+13-02-2019 12:22:04	Finished importing Data-tier Application file.
+13-02-2019 12:22:04	A summary of the import was saved to the following location: C:\Users\Shani\source\repos\sample\sample\Import Schema Logs\sample_20190213065145.log
+13-02-2019 12:22:04	Click Finish to continue...
